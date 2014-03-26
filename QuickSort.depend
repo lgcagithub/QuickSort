@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1387363228 source:d:\myworkspace\codeblock\cbtemp\quicksort\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1387363682 source:d:\myworkspace\codeblock\cbtemp\quicksort\quicksort.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"QuickSort.h"
+
+1387359051 d:\myworkspace\codeblock\cbtemp\quicksort\quicksort.h
+
